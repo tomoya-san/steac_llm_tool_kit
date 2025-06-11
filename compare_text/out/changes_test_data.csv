@@ -1,0 +1,13 @@
+original_text,fixed_text,changes
+"Miranda went jogging around a lake near her college yesterday morning. While she was running, she saw some students in sailboats on the lake. They were members of the college sailing club, and they were having their morning practice. It looked like fun, and Miranda decided that she wanted to join the club, too. She is going to call the coach today to get some information about it.","Miranda was jogging around the lake near her college yesterday morning. While she was running, she saw some students in sailboats on the lake. They were members of the college Sailing Club, and they were having their morning practice. It looked like fun, and Miranda decided that she wanted to join the club too. She is going to call the coach today to get some information about it.","'went' -> 'was'
+'a' -> 'the'
+'sailing' -> 'Sailing'
+'club,' -> 'Club,'
+'club,' -> 'club'
+"
+"Thank you for coming to Marksdale Town Hall. We're having this meeting to discuss garbage collection in Marksdale. As you know, a new garbage collection system was introduced last September. Many of you have said that the system hasn't been working well. We have some town officials here today, so please feel free to voice your opinions and ask them any questions you have.","Thank you for coming to Marksdale Town Hall. We're having this meeting to discuss garbage collection in Marksdale. As you know, a new garbage collection system was introduced last September. Many of you have said that the system hasn't been working well. We have some town officials here today, so please feel free to voice your opinions and ask them any questions you have.",IDENTICAL
+"In some countries, there are organizations called neighborhood-watch groups. They are made up of people who want to reduce crime in their neighborhoods. Members try to prevent crime and protect each other's homes by looking out for anything suspicious. Local police officers support neighborhood-watch groups, and they give members advice and information.","In some countries, there are organizations called Neighborhood Watch groups. They are made up of people who want to reduce crime in their neighborhoods. Members try to prevent crime and protect each other's homes by looking out for anything suspicious. Local police officers support Neighborhood Watch groups, and they give members advice and information.","'neighborhood-watch' -> 'Neighborhood'
+'' -> 'Watch'
+'neighborhood-watch' -> 'Neighborhood'
+'' -> 'Watch'
+"
