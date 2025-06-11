@@ -1,0 +1,21 @@
+The following are English passages, their corresponding questions and their question number, which have been transcribed from images.
+Your task is to extract each passage and its question, and output them in the following JSON format:
+[
+  {
+    "question_number": QUESTION_NUMBER,
+    "passage": "PASSAGE",
+    "question": "QUESTION"
+  },
+  {
+    "question_number": QUESTION_NUMBER,
+    "passage": "PASSAGE",
+    "question": "QUESTION"
+  }
+]
+
+Keep the format exactly as shown above.
+The question number must be extracted from the input and must be integers.
+The passage and question must be strings.
+For any hyphenated words that are split across lines (like “tick-et”), remove the hyphen and join the word correctly.
+Do not include extra fields.
+If some information is missing, just put "unknown" for that specific field.
