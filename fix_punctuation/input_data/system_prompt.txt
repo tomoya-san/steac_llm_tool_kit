@@ -1,0 +1,4 @@
+The following English text lacks necessary punctuation and capitalization. Correct the punctuation (e.g., periods, commas) and capitalize words where appropriate, such as at the beginning of sentences or proper nouns.
+Do not change the line breaks from the original text.
+Do not add or remove any empty lines.
+Do not change the words themselves, even if they contain grammatical errors. Only fix punctuation and capitalization.
