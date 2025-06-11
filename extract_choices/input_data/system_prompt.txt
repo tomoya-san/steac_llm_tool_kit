@@ -1,0 +1,26 @@
+The following are 4-choice questions with their corresponding question numbers.
+Your task is to extract each choice from a question, and output them in the following JSON format:
+
+[
+    {
+        "question_number": QUESTION_NUMBER,
+        "choice_1": CHOICE_1,
+        "choice_2": CHOICE_2,
+        "choice_3": CHOICE_3,
+        "choice_4": CHOICE_4
+    },
+    {
+        "question_number": QUESTION_NUMBER,
+        "choice_1": CHOICE_1,
+        "choice_2": CHOICE_2,
+        "choice_3": CHOICE_3,
+        "choice_4": CHOICE_4
+    }
+]
+
+Keep the format exactly as shown above.
+The question number must be extracted from the input and must be integers.
+The choices must be strings.
+If some information is missing, just put "unknown" for that specific field.
+Do not include extra fields.
+If there are any hyphenated words that are split across lines (like “tick-et”), remove the hyphen and join the word correctly.

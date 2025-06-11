@@ -1,0 +1,4 @@
+filename,question_number,choice_1,choice_2,choice_3,choice_4
+test_raw_script_1.txt,16,They go to gardening stores.,They look at people's gardens.,They read books about gardeners.,They answer questions about gardening.
+test_raw_script_1.txt,17,Play in a soccer game.,Put a TV in the lounge.,Sell tickets for a sporting event.,Leave for Germany on vacation.
+test_raw_script_2.txt,18,Buy guidebooks for his wife.,Paint pictures of hills.,Go walking alone.,Talk to tourists.
